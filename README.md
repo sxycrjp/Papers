@@ -4,6 +4,8 @@
 
 - BERT:
 
+1.[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). Jacob-Google-2019. [PPT](https://nlp.stanford.edu/seminar/details/jdevlin.pdf).
+
 - Query Rewriting:
 
 1. [Automatic Synonym Discovery with Knowledge Bases](https://arxiv.org/pdf/1706.08186.pdf). KDD 17. 
