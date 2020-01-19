@@ -15,3 +15,24 @@
 - CDSSM
 
 1.[A Latent Semantic Model with Convolutional-Pooling Structure for Information Retrieval](https://www.iro.umontreal.ca/~lisa/pointeurs/ir0895-he-2.pdf). Yelong-Microsoft-CIKM-2014.
+
+- LSTM
+
+
+- Word2Vec
+
+
+- Seq2Seq
+
+
+- AutoEncoder
+
+
+- Transformer
+
+
+
+- Attention
+
+
+
