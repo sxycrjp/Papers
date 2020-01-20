@@ -5,6 +5,7 @@
 - BERT:
 
 1.[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). Jacob-Google-2019. [PPT](https://nlp.stanford.edu/seminar/details/jdevlin.pdf).
+1.
 
 - Query Rewriting:
 
@@ -15,6 +16,7 @@
 - CDSSM
 
 1.[A Latent Semantic Model with Convolutional-Pooling Structure for Information Retrieval](https://www.iro.umontreal.ca/~lisa/pointeurs/ir0895-he-2.pdf). Yelong-Microsoft-CIKM-2014.
+1.
 
 - LSTM
 
@@ -35,4 +37,7 @@
 - Attention
 
 
+- Word Alignment
+1.[[Slides] Alignment in Machine Translation](http://www.cs.umd.edu/class/fall2016/cmsc723/slides/slides_18.pdf). CMSC 723.
+1.[Word Alignment for Statistical Machine Translation Using Hidden Markov Models](https://www.cs.sfu.ca/~anoop/students/anahita_mansouri/anahita-depth-report.pdf)
 
