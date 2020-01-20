@@ -43,7 +43,7 @@
 
 - Word Alignment
 
-1.[[Slides] Alignment in Machine Translation](http://www.cs.umd.edu/class/fall2016/cmsc723/slides/slides_18.pdf). CMSC 723.
+ -- [[Slides] Alignment in Machine Translation](http://www.cs.umd.edu/class/fall2016/cmsc723/slides/slides_18.pdf). CMSC 723.
 
 1.[Word Alignment for Statistical Machine Translation Using Hidden Markov Models](https://www.cs.sfu.ca/~anoop/students/anahita_mansouri/anahita-depth-report.pdf)
 
